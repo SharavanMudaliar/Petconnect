@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches animal link snapshot 1`] = `
+<article
+  className="lg:px-4 px-1 w-full md:1/3 lg:w-1/4 my-4 fadeInUp "
+>
+  <div
+    aria-label="Card"
+    className="card card-bordered image-full"
+  >
+    <figure>
+      <img
+        alt="playtpus"
+        className="w-full max-h-80 "
+        src="https://via.placeholder.com/150"
+      />
+    </figure>
+    <div
+      className="card-body"
+    >
+      <h2
+        className="card-title"
+      >
+        playtpus
+         
+        Buddy
+      </h2>
+      <p>
+        If a 
+        playtpus
+         chews shoes whose shoes does he choose?
+      </p>
+      <div
+        className="card-actions justify-end"
+      >
+        <a
+          className="btn btn-primary"
+          href="/pets/playtpus"
+          onClick={[Function]}
+        >
+          Click Here
+        </a>
+      </div>
+    </div>
+  </div>
+</article>
+`;

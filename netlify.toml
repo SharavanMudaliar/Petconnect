@@ -1,0 +1,3 @@
+[build]
+  # The build command to run during deployment
+  command = "yarn build"
