@@ -1,10 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e4f299c9-c989-48e7-98c6-a9e259ddfb0f/deploy-status)](https://app.netlify.com/sites/hardcore-morse-df1d25/deploys)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Node.js CI](https://github.com/redxzeta/Awesome-Adoption/actions/workflows/node.js.yml/badge.svg)](https://github.com/redxzeta/Awesome-Adoption/actions/workflows/node.js.yml)
-
 # PetConnect
-A web application that helps users find pets to adopt around their area. It started out as a Hackathon project and then Open Source during Hacktoberfest All levels are welcome to contribute.
-
+A web application that helps users find pets to adopt around their area. 
 ## Tech Stack Used
 - React
 - Tailwind
